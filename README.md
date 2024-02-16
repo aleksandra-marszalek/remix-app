@@ -1,3 +1,8 @@
+# Test Remix App
+
+This is the app using following Remix Tutorial available [here](https://remix.run/docs/en/main/start/tutorial).
+![logo](https://drive.google.com/file/d/1HYalfxYxshyjA2XYmftDJEQ_VZ633fll/view?usp=sharing)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
