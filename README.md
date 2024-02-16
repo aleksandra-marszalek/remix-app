@@ -1,7 +1,7 @@
 # Test Remix App
 
 This is the app using following Remix Tutorial available [here](https://remix.run/docs/en/main/start/tutorial).
-![logo](https://drive.google.com/file/d/1HYalfxYxshyjA2XYmftDJEQ_VZ633fll/view?usp=sharing)
+![logo](https://www.cartes.dev/assets/blog/remix-decoupled/remix-logo.jpg)
 
 # Welcome to Remix!
 
